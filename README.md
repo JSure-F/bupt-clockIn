@@ -1,4 +1,4 @@
-# bupt-clockIn
+# bupt-cloc
 
 ## 免责声明
 
